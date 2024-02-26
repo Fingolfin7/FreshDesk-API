@@ -1,0 +1,2 @@
+KEY=xkuRCez8ANDiuZ7qAt
+DOMAIN=softrite.freshdesk.com
